@@ -1,6 +1,6 @@
-# Collect the apples
+# Collect The Apples
 
-# teamates
+# TEAMMATES
 Dania  
-Nabila 
+Nabila
 
